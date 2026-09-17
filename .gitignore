@@ -29,3 +29,10 @@ Thumbs.db
 # Claude Code
 CLAUDE.md
 prompt.md
+
+# AI assistant working files
+.claude/
+prompt*.md
+*-prompt.md
+claude-prompts/
+.github/copilot-instructions.md
